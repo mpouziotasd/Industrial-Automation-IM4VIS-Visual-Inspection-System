@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pitting']
+
+roboflow:
+  workspace: dataset-conversion-jdiko
+  project: dataset-conversion-mh1dy
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dataset-conversion-jdiko/dataset-conversion-mh1dy/dataset/2
