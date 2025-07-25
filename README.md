@@ -4,7 +4,7 @@ This repository represents a theoritical system built originally as an assignmen
 It contains two computer vision-based examples with the goal of improving industrial manufacturing production. 
 
 <div style="display: flex; justify-content: center;">
-  <img src="demo/industry4.0__tool-inspection-design.png" width="65%">
+  <img src="demo/Industry4-0__Tool-Inspection-Design.png" width="65%">
 </div>
 
 
